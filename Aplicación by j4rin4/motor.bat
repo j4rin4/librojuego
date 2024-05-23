@@ -19,7 +19,7 @@ echo.
 echo|set /p=" \___/_| |_|_|\___|_|\__,_|_| |_|\__,_|\___/  \_| |_/_|___/\__\___/|_|  |_|\__,_|"
 echo.
 echo.
-echo Powered by Pedroza and Fariña ...
+echo Powered by Pedroza and j4rin4 ...
 timeout /t 3 /nobreak >nul
 
 :: Establecer la ruta del archivo como ruta predeterminada
